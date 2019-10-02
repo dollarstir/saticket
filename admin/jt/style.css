@@ -1,0 +1,13 @@
+.form-group span {
+    color: red;
+    margin-left: 10px;
+    margin-top: 2px;
+}
+
+.form-group {
+    margin-top: -12px;
+}
+
+.err {
+    border-color: red;
+}
